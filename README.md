@@ -51,7 +51,7 @@ Uso de clases y métodos en Java.
 
 Intenté solucionar todos los errores y problemas que se puedan presentar.
 
-Me gustaría implementar más opciones en algunos conversiones más adelante.
+Me gustaría implementar más opciones en algunos conversiones más adelante. Mejorar cómo se muestran los cuadros de diálogo, entre muchas otras cosas para mejorar la estética del programa.
 
 ## Autor
 
