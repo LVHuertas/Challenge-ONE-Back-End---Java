@@ -32,6 +32,8 @@ El usuario debería ser capaz:
 
 ### Prueba
 
+![2023-03-03 (1)](https://user-images.githubusercontent.com/110193230/222779299-2bfeb9a9-ace8-4c11-8161-93102a15191b.png)
+
 [Prueba conversor](/grabacion/prueba-conversor.mkv)
 
 ## Mi proceso
